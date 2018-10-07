@@ -1,4 +1,4 @@
-# Big-Mart-Sales-Predection
+# Big-Mart-Sales-Prediction
 Solution for Big Mart Sales Predection III competetion on datahacks.analyticsvidhya
 
 Train and test data had missing values, which were  filled with following strategy :-
